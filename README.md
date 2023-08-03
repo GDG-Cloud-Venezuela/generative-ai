@@ -27,7 +27,7 @@ EN - [Set Up an LLM Project Using a Free GPU in Google Colab by Daniel Avila](ht
 
 EN - [Papers de Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=machine+learning&btnG=)
 
-##Cursos
+### Cursos
 
 ES - [Cursos de Machine Learning Básicos](https://developers.google.com/machine-learning?hl=es-419)
 
